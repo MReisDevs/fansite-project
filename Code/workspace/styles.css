@@ -1,0 +1,30 @@
+body {
+    background-color: #C96567;
+    text-align: center;
+}
+h1{
+    color: #97AABD;
+    font-size: 40px;
+    font-family: fantasy;
+}
+h2 {
+    color:#644E5B;
+    font-size: 28px; 
+}
+p {
+    color: #314455;
+    font-size: 20px;
+}
+ul {
+    color: #314455;
+    font-size: 20px;
+}
+#introquote {
+    font-style: italic;
+}
+#cjlink {
+    text-align: center; 
+    font-weight:normal; 
+    font-size:12px; 
+    text-decoration:underline;
+}
